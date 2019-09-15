@@ -1,0 +1,13 @@
+﻿-Em gửi thầy ạ , nếu thầy muốn debug được chương trình trong visual thì thầy phải cài thư viện nana c++ , source : http://nanapro.org 
+(như em đã báo cáo ở đợt 2 thì thư viện này không can thiệp bất cứ gì vào việc xử lý , nó chỉ dùng để tạo giao diện)
+
+-Chương trình chỉ debug đúng khi Solution platform x86 , chạy 64bit sẽ bị lỗi
+
+-Vì đặc trưng của chương trình debug sẽ kèm theo một số file dll(sẽ không mở được file exe nếu không có VISUAL STUDIO - hoặc visual thiếu dll)
+
+-Đường dẫn đến file phải là chuỗi không dấu , em đặt tên file không có tên nhóm trưởng vì đường link không nhận chữ có dấu ạ. nên em chỉ để mssv
+
+-Lần đầu mở chương trình khá lag nên thầy thông cảm ạ.
+
+-Video hướng dẫn sử dụng và demo :https://www.youtube.com/watch?v=Cv1nvWknIVI
+

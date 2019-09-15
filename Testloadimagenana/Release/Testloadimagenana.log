@@ -1,0 +1,43 @@
+﻿  Bitmap.cpp
+  Menu.cpp
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\menu.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Processimage.cpp
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(122): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(141): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(142): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(143): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(182): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(183): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(184): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(457): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(510): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(515): warning C4018: '<': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(529): warning C4018: '<': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(543): warning C4018: '<': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(652): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(653): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(654): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(720): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(725): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(726): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(900): warning C4018: '<': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(902): warning C4018: '<': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(947): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(948): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(949): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(950): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(951): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(952): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(1061): warning C4018: '<': signed/unsigned mismatch
+c:\users\tandeptraivl\desktop\18120552\testloadimagenana\processimage.cpp(1063): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating code
+  All 1822 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Testloadimagenana.vcxproj -> C:\Users\Tandeptraivl\Desktop\18120552\Release\18120552_Võ Minh Tân.exe
